@@ -1,1 +1,1 @@
-# Diabetes-Prediction-suing-machine-Learning
+# Diabetes-Prediction-using-machine-Learning
